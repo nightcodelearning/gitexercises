@@ -4,6 +4,9 @@ public class Reporte{
     private int numero;
     private String valor;
     public Reporte(String cadena, int numero, String valor) {
+        
+        //hola mundo
+        
         this.cadena = cadena;
         this.numero = numero;
         this.valor = valor;
